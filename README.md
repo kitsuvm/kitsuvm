@@ -15,10 +15,10 @@ Hello! I'm Arulog da Silva Costa (she/her), and I'm a Brazilian software develop
 
 ## Github Stats
 
-[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api?username=arulog&hide_title=true&theme=midnight-purple&show_icons=true&count_private=true#gh-dark-mode-only)](https://github.com/arulog#gh-dark-mode-only)
-[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api?username=arulog&hide_title=true&theme=buefy&show_icons=true&count_private=true#gh-light-mode-only)](https://github.com/arulog#gh-light-mode-only)
+[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api?username=kitsuvm&hide_title=true&theme=midnight-purple&show_icons=true&count_private=true&exclude_repo=facepaw-tracker-p1#gh-dark-mode-only)](https://github.com/kitsuvm#gh-dark-mode-only)
+[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api?username=kitsuvm&hide_title=true&theme=buefy&show_icons=true&count_private=true&exclude_repo=facepaw-tracker-p1#gh-light-mode-only)](https://github.com/kitsuvm#gh-light-mode-only)
 
 ## Top Languages
 
-[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=arulog&hide_title=true&theme=midnight-purple&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-dark-mode-only)](https://github.com/arulog#gh-dark-mode-only)
-[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=arulog&hide_title=true&theme=buefy&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-light-mode-only)](https://github.com/arulog#gh-light-mode-only)
+[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=kitsuvm&hide_title=true&theme=midnight-purple&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake&exclude_repo=facepaw-tracker-p1#gh-dark-mode-only)](https://github.com/kitsuvm#gh-dark-mode-only)
+[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=kitsuvm&hide_title=true&theme=buefy&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake&exclude_repo=facepaw-tracker-p1#gh-light-mode-only)](https://github.com/kitsuvm#gh-light-mode-only)
