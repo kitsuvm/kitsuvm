@@ -1,5 +1,3 @@
-Software Developer | Specialized in Rust & TypeScript | Creating High-Performance, Scalable Systems.
-
 I am a 21-year-old Brazilian software developer who began my journey in 2019 with nothing but a Samsung smartphone. What began as creating Discord bots with Node.js has evolved into a passion for creating highly optimized applications. 
 
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-181717?style=for-the-badge&logo=github&logoColor=%23fff)
